@@ -16,7 +16,7 @@ I make Among Us mods/utilities and [BepInEx](https://github.com/BepInEx/BepInEx)
 I also like the Linux world with Raspberry Pis
 
 ---
-I host an [Impostor server](https://github.com/Impostor/Impostor):
+I host an [Empostor server](https://github.com/Empostor/Empostor) (an Among Us custom region):
 
 ⬇️ Download [regionInfo.json](https://raw.githubusercontent.com/Nb1X/nb1x.github.io/refs/heads/main/static/regionInfo.json)
 
