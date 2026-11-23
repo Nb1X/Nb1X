@@ -11,27 +11,12 @@
 
 Hi, I'm Nb1X, a C# developer focused on Among Us modding and BepInEx plugins.
 
-I make Among Us mods/utilities and [BepInEx](https://github.com/BepInEx/BepInEx) plugins
+I make Among Us mods/utilities and [BepInEx](https://github.com/BepInEx/BepInEx) plugins.
 
-I also like the Linux world with Raspberry Pis
+My projects:
 
----
-I host an [Empostor server](https://github.com/Empostor/Empostor) (an Among Us custom region):
-
-⬇️ Download [regionInfo.json](https://raw.githubusercontent.com/Nb1X/nb1x.github.io/refs/heads/main/static/regionInfo.json)
-
-Mobile users: Go [here](https://nb1x.github.io/regions) to add the server to your regions list
-
-Starlight users: follow [this tutorial](https://nb1x.github.io/regions/starlight.html) to add the server to your regions list.
-
-EU IP: https://moddedcrew.duckdns.org:443
-
-NA IP: Coming soon
-
-AS IP: Coming soon
-
-You can use it for playing with mods!
-
----
-
-> ⚠️ I am not affiliated with Innersloth or Among Us.
+| Name | Description |
+| ---- | ----------- |
+| OBS RPi | A project that is made to allow you to run OBS Studio to stream & record through a Raspberry Pi. |
+| SusNetwork | A full Among Us private server with different features and Android support. |
+| DeepSharp | A DeepSeek Chat client in Avalonia with agent mode. |
